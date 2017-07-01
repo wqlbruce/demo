@@ -1,0 +1,25 @@
+{
+  "name": "demo-1",
+  "version": "1.0.0",
+  "description": "web site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heboliufengjie/demo-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heboliufengjie/demo-1/issues"
+  },
+  "homepage": "https://github.com/heboliufengjie/demo-1#readme",
+  "devDependencies": {
+    "gulp-clean-css": "^3.5.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
